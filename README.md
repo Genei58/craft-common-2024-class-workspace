@@ -1,0 +1,1 @@
+# craft-common-2024-class-workspace
